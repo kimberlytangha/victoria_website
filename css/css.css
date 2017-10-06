@@ -37,7 +37,7 @@ li > img:hover {
 
 .button-label {
     font-family: 'Courier New', Courier;
-    color: rgb(70,181,117);
+    color: rgb(255, 80, 80);
     align: center;
     letter-spacing: 3px;
 }
@@ -78,7 +78,7 @@ a:link {
 
 .highlight {
     font-weight: 700;
-    color: rgb(70,181,117);
+    color: rgb(255, 80, 80);
     text-shadow: 10px 10px 20px rgba(0,0,0,.5);
 }
 

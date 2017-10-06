@@ -1,4 +1,4 @@
-var $menuOpt = [ "Experience", "Projects", "Skills", "Hackathons", "Conferences" ];
+var $menuOpt = [ "Experience", "Courses", "Something1", "Something2", "Something3" ];
 var $keyWords = [ "developer.", "student.", "something.", "something." ];
 
 var buildMenu = function(options) {
@@ -77,7 +77,7 @@ var textTyping = function() {
 	
 	var css = document.createElement("style");
 	css.type = "text/css";
-	css.innerHTML = ".txt-rotate > .wrap { border-right: 10px solid #58BC82 }";
+	css.innerHTML = ".txt-rotate > .wrap { border-right: 10px solid #ff5050 }";
 	document.body.appendChild(css);
 };
 
