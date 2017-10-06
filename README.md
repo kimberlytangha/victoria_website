@@ -1,9 +1,2 @@
 # Welcome!
-Check out my [personal website](https://peachykeen9.github.io)!
-
-Basics:
-- HTML/ CSS/ JS
-
-Frameworks/ Tools: 
-- [Skeleton](http://getskeleton.com/) for mobile responsiveness
-- JQuery 
+Making a friend's website as a favor [See here](https://peachykeen9.github.io/victoria_website/)!
