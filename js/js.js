@@ -1,5 +1,5 @@
-var $menuOpt = [ "Experience", "Courses", "Something1", "Something2", "Something3" ];
-var $keyWords = [ "developer.", "student.", "something.", "something." ];
+var $menuOpt = [ "Experience", "Courses", "Honors Project", "Application Development" ];
+var $keyWords = [ "developer.", "researcher.", "student." ];
 
 var buildMenu = function(options) {
 	for(i = 0; i < options.length; i++){
